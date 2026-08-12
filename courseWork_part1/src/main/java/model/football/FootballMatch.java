@@ -1,11 +1,16 @@
 package model.football;
 
-import com.fasterxml.jackson.annotation.JsonProperty;
+import java.util.List;
 
 public record FootballMatch(
-        @JsonProperty("id") String id,
-        @JsonProperty("name") String name,
-        @JsonProperty("date") String date,
-        @JsonProperty("status") MatchStatus status,
-        @JsonProperty("score") ScoreInfo score
-) {}
+        Integer id,
+        String flashId,
+        String date,
+        Long dateUtc,
+        Integer status,
+        List<String> periods,
+        String statusName,
+        Integer elapsed,
+        Integer extraMinutes
+) {
+}

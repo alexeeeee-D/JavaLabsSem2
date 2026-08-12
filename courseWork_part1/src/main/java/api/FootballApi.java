@@ -4,7 +4,12 @@ public class FootballApi implements ApiClient {
 
     @Override
     public String getData() {
-        String query = "https://www.thesportsdb.com/api/v1/json/3/lookupevent.php?id=2267452";
+        String query =
+                "https://api.sstats.net/games/list" +
+                        "?upcoming=true" +
+                        "&team=529" +
+                        "&limit=10";
+
         return messenger.getBody(query);
     }
 
