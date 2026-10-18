@@ -1,0 +1,1263 @@
+[ {
+  "id" : "aeb6b712-e4b2-4447-9aeb-68113dce7fe8",
+  "source" : "weather",
+  "timestamp" : 1.7894768336129308E9,
+  "data" : {
+    "latitude" : 59.545567,
+    "longitude" : 30.206238,
+    "generationtime_ms" : 0.019431114196777344,
+    "utc_offset_seconds" : 0,
+    "timezone" : "GMT",
+    "timezone_abbreviation" : "GMT",
+    "elevation" : 74.0,
+    "current_units" : {
+      "time" : "iso8601",
+      "interval" : "seconds",
+      "temperature_2m" : "°C"
+    },
+    "current" : {
+      "time" : "2026-09-15T12:45",
+      "interval" : 900,
+      "temperature_2m" : 15.6
+    }
+  }
+}, {
+  "id" : "472cc362-63f5-497e-8ab6-87069c8bfbcd",
+  "source" : "football",
+  "timestamp" : 1.7894768336284413E9,
+  "data" : {
+    "status" : "OK",
+    "count" : 10,
+    "data" : [ {
+      "id" : 1570385,
+      "flashId" : null,
+      "date" : "2026-09-16T22:30:00+03:00",
+      "dateUtc" : 1789587000,
+      "status" : 2,
+      "statusName" : "Not Started",
+      "homeResult" : null,
+      "awayResult" : null,
+      "homeHTResult" : null,
+      "awayHTResult" : null,
+      "homeFTResult" : null,
+      "awayFTResult" : null,
+      "homeTeam" : {
+        "id" : 529,
+        "name" : "Barcelona",
+        "flashId" : "barcelona/SKbpVP5K",
+        "country" : {
+          "code" : "ES",
+          "name" : "Spain"
+        }
+      },
+      "awayTeam" : {
+        "id" : 4665,
+        "name" : "Racing Santander",
+        "flashId" : null,
+        "country" : {
+          "code" : "ES",
+          "name" : "Spain"
+        }
+      },
+      "season" : {
+        "uid" : "a73aab1c-75e2-11f1-9839-3cecef730a49",
+        "year" : 2026,
+        "league" : {
+          "id" : 140,
+          "name" : "La Liga",
+          "country" : {
+            "code" : "ES",
+            "name" : "Spain"
+          },
+          "flashScoreId" : "spain/laliga"
+        }
+      },
+      "roundName" : "Regular Season - 6",
+      "odds" : [ {
+        "marketId" : 1,
+        "marketName" : null,
+        "odds" : [ {
+          "name" : "Home",
+          "value" : 1.06
+        }, {
+          "name" : "Away",
+          "value" : 23
+        }, {
+          "name" : "Draw",
+          "value" : 14
+        } ]
+      }, {
+        "marketId" : 2,
+        "marketName" : null,
+        "odds" : [ {
+          "name" : "Home",
+          "value" : 1.01
+        }, {
+          "name" : "Away",
+          "value" : 21
+        } ]
+      }, {
+        "marketId" : 12,
+        "marketName" : null,
+        "odds" : [ {
+          "name" : "Home/Draw",
+          "value" : 1.01
+        }, {
+          "name" : "Home/Away",
+          "value" : 1.04
+        }, {
+          "name" : "Draw/Away",
+          "value" : 10
+        } ]
+      }, {
+        "marketId" : 5,
+        "marketName" : null,
+        "odds" : [ {
+          "name" : "Over 4.5",
+          "value" : 1.73
+        }, {
+          "name" : "Under 4.5",
+          "value" : 2.1
+        } ]
+      }, {
+        "marketId" : 16,
+        "marketName" : null,
+        "odds" : [ {
+          "name" : "Over 3.5",
+          "value" : 1.62
+        }, {
+          "name" : "Under 3.5",
+          "value" : 2.2
+        } ]
+      }, {
+        "marketId" : 17,
+        "marketName" : null,
+        "odds" : [ {
+          "name" : "Over 0.5",
+          "value" : 1.73
+        }, {
+          "name" : "Under 0.5",
+          "value" : 2
+        } ]
+      } ]
+    }, {
+      "id" : 1570400,
+      "flashId" : null,
+      "date" : "2026-09-19T22:00:00+03:00",
+      "dateUtc" : 1789844400,
+      "status" : 2,
+      "statusName" : "Not Started",
+      "homeResult" : null,
+      "awayResult" : null,
+      "homeHTResult" : null,
+      "awayHTResult" : null,
+      "homeFTResult" : null,
+      "awayFTResult" : null,
+      "homeTeam" : {
+        "id" : 536,
+        "name" : "Sevilla",
+        "flashId" : "sevilla/h8oAv4Ts",
+        "country" : {
+          "code" : "ES",
+          "name" : "Spain"
+        }
+      },
+      "awayTeam" : {
+        "id" : 529,
+        "name" : "Barcelona",
+        "flashId" : "barcelona/SKbpVP5K",
+        "country" : {
+          "code" : "ES",
+          "name" : "Spain"
+        }
+      },
+      "season" : {
+        "uid" : "a73aab1c-75e2-11f1-9839-3cecef730a49",
+        "year" : 2026,
+        "league" : {
+          "id" : 140,
+          "name" : "La Liga",
+          "country" : {
+            "code" : "ES",
+            "name" : "Spain"
+          },
+          "flashScoreId" : "spain/laliga"
+        }
+      },
+      "roundName" : "Regular Season - 7",
+      "odds" : [ {
+        "marketId" : 1,
+        "marketName" : null,
+        "odds" : [ {
+          "name" : "Home",
+          "value" : 11
+        }, {
+          "name" : "Away",
+          "value" : 1.22
+        }, {
+          "name" : "Draw",
+          "value" : 6
+        } ]
+      }, {
+        "marketId" : 2,
+        "marketName" : null,
+        "odds" : [ {
+          "name" : "Home",
+          "value" : 9
+        }, {
+          "name" : "Away",
+          "value" : 1.07
+        } ]
+      }, {
+        "marketId" : 12,
+        "marketName" : null,
+        "odds" : [ {
+          "name" : "Home/Draw",
+          "value" : 4
+        }, {
+          "name" : "Home/Away",
+          "value" : 1.12
+        }, {
+          "name" : "Draw/Away",
+          "value" : 1.05
+        } ]
+      }, {
+        "marketId" : 5,
+        "marketName" : null,
+        "odds" : [ {
+          "name" : "Over 3.5",
+          "value" : 1.91
+        }, {
+          "name" : "Under 3.5",
+          "value" : 1.91
+        } ]
+      }, {
+        "marketId" : 16,
+        "marketName" : null,
+        "odds" : [ {
+          "name" : "Over 0.5",
+          "value" : 1.67
+        }, {
+          "name" : "Under 0.5",
+          "value" : 2.1
+        } ]
+      }, {
+        "marketId" : 17,
+        "marketName" : null,
+        "odds" : [ {
+          "name" : "Over 2.5",
+          "value" : 1.8
+        }, {
+          "name" : "Under 2.5",
+          "value" : 1.91
+        } ]
+      } ]
+    }, {
+      "id" : 1570404,
+      "flashId" : null,
+      "date" : "2026-10-10T19:30:00+03:00",
+      "dateUtc" : 1791649800,
+      "status" : 2,
+      "statusName" : "Not Started",
+      "homeResult" : null,
+      "awayResult" : null,
+      "homeHTResult" : null,
+      "awayHTResult" : null,
+      "homeFTResult" : null,
+      "awayFTResult" : null,
+      "homeTeam" : {
+        "id" : 529,
+        "name" : "Barcelona",
+        "flashId" : "barcelona/SKbpVP5K",
+        "country" : {
+          "code" : "ES",
+          "name" : "Spain"
+        }
+      },
+      "awayTeam" : {
+        "id" : 546,
+        "name" : "Getafe",
+        "flashId" : "getafe/dboeiWOt",
+        "country" : {
+          "code" : "ES",
+          "name" : "Spain"
+        }
+      },
+      "season" : {
+        "uid" : "a73aab1c-75e2-11f1-9839-3cecef730a49",
+        "year" : 2026,
+        "league" : {
+          "id" : 140,
+          "name" : "La Liga",
+          "country" : {
+            "code" : "ES",
+            "name" : "Spain"
+          },
+          "flashScoreId" : "spain/laliga"
+        }
+      },
+      "roundName" : "Regular Season - 8"
+    }, {
+      "id" : 1635666,
+      "flashId" : null,
+      "date" : "2026-10-13T22:00:00+03:00",
+      "dateUtc" : 1791918000,
+      "status" : 2,
+      "statusName" : "Not Started",
+      "homeResult" : null,
+      "awayResult" : null,
+      "homeHTResult" : null,
+      "awayHTResult" : null,
+      "homeFTResult" : null,
+      "awayFTResult" : null,
+      "homeTeam" : {
+        "id" : 645,
+        "name" : "Galatasaray",
+        "flashId" : "galatasaray/riaqqurF",
+        "country" : {
+          "code" : "TR",
+          "name" : "Turkey"
+        }
+      },
+      "awayTeam" : {
+        "id" : 529,
+        "name" : "Barcelona",
+        "flashId" : "barcelona/SKbpVP5K",
+        "country" : {
+          "code" : "ES",
+          "name" : "Spain"
+        }
+      },
+      "season" : {
+        "uid" : "a424f4b6-6ad2-11f1-9836-3cecef730a49",
+        "year" : 2026,
+        "league" : {
+          "id" : 2,
+          "name" : "UEFA Champions League",
+          "country" : {
+            "code" : "WW",
+            "name" : "World"
+          },
+          "flashScoreId" : "europe/champions-league"
+        }
+      },
+      "roundName" : "League Stage - 2"
+    }, {
+      "id" : 1570413,
+      "flashId" : null,
+      "date" : "2026-10-18T18:00:00+03:00",
+      "dateUtc" : 1792335600,
+      "status" : 2,
+      "statusName" : "Not Started",
+      "homeResult" : null,
+      "awayResult" : null,
+      "homeHTResult" : null,
+      "awayHTResult" : null,
+      "homeFTResult" : null,
+      "awayFTResult" : null,
+      "homeTeam" : {
+        "id" : 543,
+        "name" : "Real Betis",
+        "flashId" : "betis/vJbTeCGP",
+        "country" : {
+          "code" : "ES",
+          "name" : "Spain"
+        }
+      },
+      "awayTeam" : {
+        "id" : 529,
+        "name" : "Barcelona",
+        "flashId" : "barcelona/SKbpVP5K",
+        "country" : {
+          "code" : "ES",
+          "name" : "Spain"
+        }
+      },
+      "season" : {
+        "uid" : "a73aab1c-75e2-11f1-9839-3cecef730a49",
+        "year" : 2026,
+        "league" : {
+          "id" : 140,
+          "name" : "La Liga",
+          "country" : {
+            "code" : "ES",
+            "name" : "Spain"
+          },
+          "flashScoreId" : "spain/laliga"
+        }
+      },
+      "roundName" : "Regular Season - 9"
+    }, {
+      "id" : 1635702,
+      "flashId" : null,
+      "date" : "2026-10-20T22:00:00+03:00",
+      "dateUtc" : 1792522800,
+      "status" : 2,
+      "statusName" : "Not Started",
+      "homeResult" : null,
+      "awayResult" : null,
+      "homeHTResult" : null,
+      "awayHTResult" : null,
+      "homeFTResult" : null,
+      "awayFTResult" : null,
+      "homeTeam" : {
+        "id" : 85,
+        "name" : "Paris Saint Germain",
+        "flashId" : "paris-sg/CjhkPw0k",
+        "country" : {
+          "code" : "FR",
+          "name" : "France"
+        }
+      },
+      "awayTeam" : {
+        "id" : 529,
+        "name" : "Barcelona",
+        "flashId" : "barcelona/SKbpVP5K",
+        "country" : {
+          "code" : "ES",
+          "name" : "Spain"
+        }
+      },
+      "season" : {
+        "uid" : "a424f4b6-6ad2-11f1-9836-3cecef730a49",
+        "year" : 2026,
+        "league" : {
+          "id" : 2,
+          "name" : "UEFA Champions League",
+          "country" : {
+            "code" : "WW",
+            "name" : "World"
+          },
+          "flashScoreId" : "europe/champions-league"
+        }
+      },
+      "roundName" : "League Stage - 3"
+    }, {
+      "id" : 1570426,
+      "flashId" : null,
+      "date" : "2026-10-25T23:00:00+03:00",
+      "dateUtc" : 1792958400,
+      "status" : 2,
+      "statusName" : "Not Started",
+      "homeResult" : null,
+      "awayResult" : null,
+      "homeHTResult" : null,
+      "awayHTResult" : null,
+      "homeFTResult" : null,
+      "awayFTResult" : null,
+      "homeTeam" : {
+        "id" : 529,
+        "name" : "Barcelona",
+        "flashId" : "barcelona/SKbpVP5K",
+        "country" : {
+          "code" : "ES",
+          "name" : "Spain"
+        }
+      },
+      "awayTeam" : {
+        "id" : 541,
+        "name" : "Real Madrid",
+        "flashId" : "real-madrid/W8mj7MDD",
+        "country" : {
+          "code" : "ES",
+          "name" : "Spain"
+        }
+      },
+      "season" : {
+        "uid" : "a73aab1c-75e2-11f1-9839-3cecef730a49",
+        "year" : 2026,
+        "league" : {
+          "id" : 140,
+          "name" : "La Liga",
+          "country" : {
+            "code" : "ES",
+            "name" : "Spain"
+          },
+          "flashScoreId" : "spain/laliga"
+        }
+      },
+      "roundName" : "Regular Season - 10"
+    }, {
+      "id" : 1570434,
+      "flashId" : null,
+      "date" : "2026-11-01T19:00:00+03:00",
+      "dateUtc" : 1793548800,
+      "status" : 2,
+      "statusName" : "Not Started",
+      "homeResult" : null,
+      "awayResult" : null,
+      "homeHTResult" : null,
+      "awayHTResult" : null,
+      "homeFTResult" : null,
+      "awayFTResult" : null,
+      "homeTeam" : {
+        "id" : 529,
+        "name" : "Barcelona",
+        "flashId" : "barcelona/SKbpVP5K",
+        "country" : {
+          "code" : "ES",
+          "name" : "Spain"
+        }
+      },
+      "awayTeam" : {
+        "id" : 542,
+        "name" : "Alaves",
+        "flashId" : "alaves/hxt57t2q",
+        "country" : {
+          "code" : "ES",
+          "name" : "Spain"
+        }
+      },
+      "season" : {
+        "uid" : "a73aab1c-75e2-11f1-9839-3cecef730a49",
+        "year" : 2026,
+        "league" : {
+          "id" : 140,
+          "name" : "La Liga",
+          "country" : {
+            "code" : "ES",
+            "name" : "Spain"
+          },
+          "flashScoreId" : "spain/laliga"
+        }
+      },
+      "roundName" : "Regular Season - 11"
+    }, {
+      "id" : 1635627,
+      "flashId" : null,
+      "date" : "2026-11-03T23:00:00+03:00",
+      "dateUtc" : 1793736000,
+      "status" : 2,
+      "statusName" : "Not Started",
+      "homeResult" : null,
+      "awayResult" : null,
+      "homeHTResult" : null,
+      "awayHTResult" : null,
+      "homeFTResult" : null,
+      "awayFTResult" : null,
+      "homeTeam" : {
+        "id" : 529,
+        "name" : "Barcelona",
+        "flashId" : "barcelona/SKbpVP5K",
+        "country" : {
+          "code" : "ES",
+          "name" : "Spain"
+        }
+      },
+      "awayTeam" : {
+        "id" : 66,
+        "name" : "Aston Villa",
+        "flashId" : "aston-villa/W00wmLO0",
+        "country" : {
+          "code" : "GB-ENG",
+          "name" : "England"
+        }
+      },
+      "season" : {
+        "uid" : "a424f4b6-6ad2-11f1-9836-3cecef730a49",
+        "year" : 2026,
+        "league" : {
+          "id" : 2,
+          "name" : "UEFA Champions League",
+          "country" : {
+            "code" : "WW",
+            "name" : "World"
+          },
+          "flashScoreId" : "europe/champions-league"
+        }
+      },
+      "roundName" : "League Stage - 4"
+    }, {
+      "id" : 1570443,
+      "flashId" : null,
+      "date" : "2026-11-08T19:00:00+03:00",
+      "dateUtc" : 1794153600,
+      "status" : 2,
+      "statusName" : "Not Started",
+      "homeResult" : null,
+      "awayResult" : null,
+      "homeHTResult" : null,
+      "awayHTResult" : null,
+      "homeFTResult" : null,
+      "awayFTResult" : null,
+      "homeTeam" : {
+        "id" : 530,
+        "name" : "Atletico Madrid",
+        "flashId" : "atl-madrid/jaarqpLQ",
+        "country" : {
+          "code" : "ES",
+          "name" : "Spain"
+        }
+      },
+      "awayTeam" : {
+        "id" : 529,
+        "name" : "Barcelona",
+        "flashId" : "barcelona/SKbpVP5K",
+        "country" : {
+          "code" : "ES",
+          "name" : "Spain"
+        }
+      },
+      "season" : {
+        "uid" : "a73aab1c-75e2-11f1-9839-3cecef730a49",
+        "year" : 2026,
+        "league" : {
+          "id" : 140,
+          "name" : "La Liga",
+          "country" : {
+            "code" : "ES",
+            "name" : "Spain"
+          },
+          "flashScoreId" : "spain/laliga"
+        }
+      },
+      "roundName" : "Regular Season - 12"
+    } ],
+    "offset" : 0,
+    "traceId" : "00-e500639391df2c34f7f7702557205ed0-3fa6c87507173328-00"
+  }
+}, {
+  "id" : "52d9cd07-e674-46aa-a446-809de6ea8b9a",
+  "source" : "frankfurter",
+  "timestamp" : 1.789476833678434E9,
+  "data" : {
+    "amount" : 1.0,
+    "base" : "USD",
+    "date" : "2026-09-14",
+    "rates" : {
+      "CNY" : 6.7084,
+      "EUR" : 0.86573
+    }
+  }
+}, {
+  "id" : "c7695369-e5c5-4f36-8581-66ee273e8c7b",
+  "source" : "frankfurter",
+  "timestamp" : 1.7894768437102692E9,
+  "data" : {
+    "amount" : 1.0,
+    "base" : "USD",
+    "date" : "2026-09-14",
+    "rates" : {
+      "CNY" : 6.7084,
+      "EUR" : 0.86573
+    }
+  }
+}, {
+  "id" : "503b91f2-f282-468e-b848-b7fa7ce3e53b",
+  "source" : "weather",
+  "timestamp" : 1.7894768437102692E9,
+  "data" : {
+    "latitude" : 59.545567,
+    "longitude" : 30.206238,
+    "generationtime_ms" : 0.029802322387695312,
+    "utc_offset_seconds" : 0,
+    "timezone" : "GMT",
+    "timezone_abbreviation" : "GMT",
+    "elevation" : 74.0,
+    "current_units" : {
+      "time" : "iso8601",
+      "interval" : "seconds",
+      "temperature_2m" : "°C"
+    },
+    "current" : {
+      "time" : "2026-09-15T12:45",
+      "interval" : 900,
+      "temperature_2m" : 15.6
+    }
+  }
+}, {
+  "id" : "bcf46872-a86f-461a-b456-bdfb4ec9ff67",
+  "source" : "football",
+  "timestamp" : 1789476843.7853573,
+  "data" : {
+    "status" : "OK",
+    "count" : 10,
+    "data" : [ {
+      "id" : 1570385,
+      "flashId" : null,
+      "date" : "2026-09-16T22:30:00+03:00",
+      "dateUtc" : 1789587000,
+      "status" : 2,
+      "statusName" : "Not Started",
+      "homeResult" : null,
+      "awayResult" : null,
+      "homeHTResult" : null,
+      "awayHTResult" : null,
+      "homeFTResult" : null,
+      "awayFTResult" : null,
+      "homeTeam" : {
+        "id" : 529,
+        "name" : "Barcelona",
+        "flashId" : "barcelona/SKbpVP5K",
+        "country" : {
+          "code" : "ES",
+          "name" : "Spain"
+        }
+      },
+      "awayTeam" : {
+        "id" : 4665,
+        "name" : "Racing Santander",
+        "flashId" : null,
+        "country" : {
+          "code" : "ES",
+          "name" : "Spain"
+        }
+      },
+      "season" : {
+        "uid" : "a73aab1c-75e2-11f1-9839-3cecef730a49",
+        "year" : 2026,
+        "league" : {
+          "id" : 140,
+          "name" : "La Liga",
+          "country" : {
+            "code" : "ES",
+            "name" : "Spain"
+          },
+          "flashScoreId" : "spain/laliga"
+        }
+      },
+      "roundName" : "Regular Season - 6",
+      "odds" : [ {
+        "marketId" : 1,
+        "marketName" : null,
+        "odds" : [ {
+          "name" : "Home",
+          "value" : 1.06
+        }, {
+          "name" : "Away",
+          "value" : 23
+        }, {
+          "name" : "Draw",
+          "value" : 14
+        } ]
+      }, {
+        "marketId" : 2,
+        "marketName" : null,
+        "odds" : [ {
+          "name" : "Home",
+          "value" : 1.01
+        }, {
+          "name" : "Away",
+          "value" : 21
+        } ]
+      }, {
+        "marketId" : 12,
+        "marketName" : null,
+        "odds" : [ {
+          "name" : "Home/Draw",
+          "value" : 1.01
+        }, {
+          "name" : "Home/Away",
+          "value" : 1.04
+        }, {
+          "name" : "Draw/Away",
+          "value" : 10
+        } ]
+      }, {
+        "marketId" : 5,
+        "marketName" : null,
+        "odds" : [ {
+          "name" : "Over 4.5",
+          "value" : 1.73
+        }, {
+          "name" : "Under 4.5",
+          "value" : 2.1
+        } ]
+      }, {
+        "marketId" : 16,
+        "marketName" : null,
+        "odds" : [ {
+          "name" : "Over 3.5",
+          "value" : 1.62
+        }, {
+          "name" : "Under 3.5",
+          "value" : 2.2
+        } ]
+      }, {
+        "marketId" : 17,
+        "marketName" : null,
+        "odds" : [ {
+          "name" : "Over 0.5",
+          "value" : 1.73
+        }, {
+          "name" : "Under 0.5",
+          "value" : 2
+        } ]
+      } ]
+    }, {
+      "id" : 1570400,
+      "flashId" : null,
+      "date" : "2026-09-19T22:00:00+03:00",
+      "dateUtc" : 1789844400,
+      "status" : 2,
+      "statusName" : "Not Started",
+      "homeResult" : null,
+      "awayResult" : null,
+      "homeHTResult" : null,
+      "awayHTResult" : null,
+      "homeFTResult" : null,
+      "awayFTResult" : null,
+      "homeTeam" : {
+        "id" : 536,
+        "name" : "Sevilla",
+        "flashId" : "sevilla/h8oAv4Ts",
+        "country" : {
+          "code" : "ES",
+          "name" : "Spain"
+        }
+      },
+      "awayTeam" : {
+        "id" : 529,
+        "name" : "Barcelona",
+        "flashId" : "barcelona/SKbpVP5K",
+        "country" : {
+          "code" : "ES",
+          "name" : "Spain"
+        }
+      },
+      "season" : {
+        "uid" : "a73aab1c-75e2-11f1-9839-3cecef730a49",
+        "year" : 2026,
+        "league" : {
+          "id" : 140,
+          "name" : "La Liga",
+          "country" : {
+            "code" : "ES",
+            "name" : "Spain"
+          },
+          "flashScoreId" : "spain/laliga"
+        }
+      },
+      "roundName" : "Regular Season - 7",
+      "odds" : [ {
+        "marketId" : 1,
+        "marketName" : null,
+        "odds" : [ {
+          "name" : "Home",
+          "value" : 11
+        }, {
+          "name" : "Away",
+          "value" : 1.22
+        }, {
+          "name" : "Draw",
+          "value" : 6
+        } ]
+      }, {
+        "marketId" : 2,
+        "marketName" : null,
+        "odds" : [ {
+          "name" : "Home",
+          "value" : 9
+        }, {
+          "name" : "Away",
+          "value" : 1.07
+        } ]
+      }, {
+        "marketId" : 12,
+        "marketName" : null,
+        "odds" : [ {
+          "name" : "Home/Draw",
+          "value" : 4
+        }, {
+          "name" : "Home/Away",
+          "value" : 1.12
+        }, {
+          "name" : "Draw/Away",
+          "value" : 1.05
+        } ]
+      }, {
+        "marketId" : 5,
+        "marketName" : null,
+        "odds" : [ {
+          "name" : "Over 3.5",
+          "value" : 1.91
+        }, {
+          "name" : "Under 3.5",
+          "value" : 1.91
+        } ]
+      }, {
+        "marketId" : 16,
+        "marketName" : null,
+        "odds" : [ {
+          "name" : "Over 0.5",
+          "value" : 1.67
+        }, {
+          "name" : "Under 0.5",
+          "value" : 2.1
+        } ]
+      }, {
+        "marketId" : 17,
+        "marketName" : null,
+        "odds" : [ {
+          "name" : "Over 2.5",
+          "value" : 1.8
+        }, {
+          "name" : "Under 2.5",
+          "value" : 1.91
+        } ]
+      } ]
+    }, {
+      "id" : 1570404,
+      "flashId" : null,
+      "date" : "2026-10-10T19:30:00+03:00",
+      "dateUtc" : 1791649800,
+      "status" : 2,
+      "statusName" : "Not Started",
+      "homeResult" : null,
+      "awayResult" : null,
+      "homeHTResult" : null,
+      "awayHTResult" : null,
+      "homeFTResult" : null,
+      "awayFTResult" : null,
+      "homeTeam" : {
+        "id" : 529,
+        "name" : "Barcelona",
+        "flashId" : "barcelona/SKbpVP5K",
+        "country" : {
+          "code" : "ES",
+          "name" : "Spain"
+        }
+      },
+      "awayTeam" : {
+        "id" : 546,
+        "name" : "Getafe",
+        "flashId" : "getafe/dboeiWOt",
+        "country" : {
+          "code" : "ES",
+          "name" : "Spain"
+        }
+      },
+      "season" : {
+        "uid" : "a73aab1c-75e2-11f1-9839-3cecef730a49",
+        "year" : 2026,
+        "league" : {
+          "id" : 140,
+          "name" : "La Liga",
+          "country" : {
+            "code" : "ES",
+            "name" : "Spain"
+          },
+          "flashScoreId" : "spain/laliga"
+        }
+      },
+      "roundName" : "Regular Season - 8"
+    }, {
+      "id" : 1635666,
+      "flashId" : null,
+      "date" : "2026-10-13T22:00:00+03:00",
+      "dateUtc" : 1791918000,
+      "status" : 2,
+      "statusName" : "Not Started",
+      "homeResult" : null,
+      "awayResult" : null,
+      "homeHTResult" : null,
+      "awayHTResult" : null,
+      "homeFTResult" : null,
+      "awayFTResult" : null,
+      "homeTeam" : {
+        "id" : 645,
+        "name" : "Galatasaray",
+        "flashId" : "galatasaray/riaqqurF",
+        "country" : {
+          "code" : "TR",
+          "name" : "Turkey"
+        }
+      },
+      "awayTeam" : {
+        "id" : 529,
+        "name" : "Barcelona",
+        "flashId" : "barcelona/SKbpVP5K",
+        "country" : {
+          "code" : "ES",
+          "name" : "Spain"
+        }
+      },
+      "season" : {
+        "uid" : "a424f4b6-6ad2-11f1-9836-3cecef730a49",
+        "year" : 2026,
+        "league" : {
+          "id" : 2,
+          "name" : "UEFA Champions League",
+          "country" : {
+            "code" : "WW",
+            "name" : "World"
+          },
+          "flashScoreId" : "europe/champions-league"
+        }
+      },
+      "roundName" : "League Stage - 2"
+    }, {
+      "id" : 1570413,
+      "flashId" : null,
+      "date" : "2026-10-18T18:00:00+03:00",
+      "dateUtc" : 1792335600,
+      "status" : 2,
+      "statusName" : "Not Started",
+      "homeResult" : null,
+      "awayResult" : null,
+      "homeHTResult" : null,
+      "awayHTResult" : null,
+      "homeFTResult" : null,
+      "awayFTResult" : null,
+      "homeTeam" : {
+        "id" : 543,
+        "name" : "Real Betis",
+        "flashId" : "betis/vJbTeCGP",
+        "country" : {
+          "code" : "ES",
+          "name" : "Spain"
+        }
+      },
+      "awayTeam" : {
+        "id" : 529,
+        "name" : "Barcelona",
+        "flashId" : "barcelona/SKbpVP5K",
+        "country" : {
+          "code" : "ES",
+          "name" : "Spain"
+        }
+      },
+      "season" : {
+        "uid" : "a73aab1c-75e2-11f1-9839-3cecef730a49",
+        "year" : 2026,
+        "league" : {
+          "id" : 140,
+          "name" : "La Liga",
+          "country" : {
+            "code" : "ES",
+            "name" : "Spain"
+          },
+          "flashScoreId" : "spain/laliga"
+        }
+      },
+      "roundName" : "Regular Season - 9"
+    }, {
+      "id" : 1635702,
+      "flashId" : null,
+      "date" : "2026-10-20T22:00:00+03:00",
+      "dateUtc" : 1792522800,
+      "status" : 2,
+      "statusName" : "Not Started",
+      "homeResult" : null,
+      "awayResult" : null,
+      "homeHTResult" : null,
+      "awayHTResult" : null,
+      "homeFTResult" : null,
+      "awayFTResult" : null,
+      "homeTeam" : {
+        "id" : 85,
+        "name" : "Paris Saint Germain",
+        "flashId" : "paris-sg/CjhkPw0k",
+        "country" : {
+          "code" : "FR",
+          "name" : "France"
+        }
+      },
+      "awayTeam" : {
+        "id" : 529,
+        "name" : "Barcelona",
+        "flashId" : "barcelona/SKbpVP5K",
+        "country" : {
+          "code" : "ES",
+          "name" : "Spain"
+        }
+      },
+      "season" : {
+        "uid" : "a424f4b6-6ad2-11f1-9836-3cecef730a49",
+        "year" : 2026,
+        "league" : {
+          "id" : 2,
+          "name" : "UEFA Champions League",
+          "country" : {
+            "code" : "WW",
+            "name" : "World"
+          },
+          "flashScoreId" : "europe/champions-league"
+        }
+      },
+      "roundName" : "League Stage - 3"
+    }, {
+      "id" : 1570426,
+      "flashId" : null,
+      "date" : "2026-10-25T23:00:00+03:00",
+      "dateUtc" : 1792958400,
+      "status" : 2,
+      "statusName" : "Not Started",
+      "homeResult" : null,
+      "awayResult" : null,
+      "homeHTResult" : null,
+      "awayHTResult" : null,
+      "homeFTResult" : null,
+      "awayFTResult" : null,
+      "homeTeam" : {
+        "id" : 529,
+        "name" : "Barcelona",
+        "flashId" : "barcelona/SKbpVP5K",
+        "country" : {
+          "code" : "ES",
+          "name" : "Spain"
+        }
+      },
+      "awayTeam" : {
+        "id" : 541,
+        "name" : "Real Madrid",
+        "flashId" : "real-madrid/W8mj7MDD",
+        "country" : {
+          "code" : "ES",
+          "name" : "Spain"
+        }
+      },
+      "season" : {
+        "uid" : "a73aab1c-75e2-11f1-9839-3cecef730a49",
+        "year" : 2026,
+        "league" : {
+          "id" : 140,
+          "name" : "La Liga",
+          "country" : {
+            "code" : "ES",
+            "name" : "Spain"
+          },
+          "flashScoreId" : "spain/laliga"
+        }
+      },
+      "roundName" : "Regular Season - 10"
+    }, {
+      "id" : 1570434,
+      "flashId" : null,
+      "date" : "2026-11-01T19:00:00+03:00",
+      "dateUtc" : 1793548800,
+      "status" : 2,
+      "statusName" : "Not Started",
+      "homeResult" : null,
+      "awayResult" : null,
+      "homeHTResult" : null,
+      "awayHTResult" : null,
+      "homeFTResult" : null,
+      "awayFTResult" : null,
+      "homeTeam" : {
+        "id" : 529,
+        "name" : "Barcelona",
+        "flashId" : "barcelona/SKbpVP5K",
+        "country" : {
+          "code" : "ES",
+          "name" : "Spain"
+        }
+      },
+      "awayTeam" : {
+        "id" : 542,
+        "name" : "Alaves",
+        "flashId" : "alaves/hxt57t2q",
+        "country" : {
+          "code" : "ES",
+          "name" : "Spain"
+        }
+      },
+      "season" : {
+        "uid" : "a73aab1c-75e2-11f1-9839-3cecef730a49",
+        "year" : 2026,
+        "league" : {
+          "id" : 140,
+          "name" : "La Liga",
+          "country" : {
+            "code" : "ES",
+            "name" : "Spain"
+          },
+          "flashScoreId" : "spain/laliga"
+        }
+      },
+      "roundName" : "Regular Season - 11"
+    }, {
+      "id" : 1635627,
+      "flashId" : null,
+      "date" : "2026-11-03T23:00:00+03:00",
+      "dateUtc" : 1793736000,
+      "status" : 2,
+      "statusName" : "Not Started",
+      "homeResult" : null,
+      "awayResult" : null,
+      "homeHTResult" : null,
+      "awayHTResult" : null,
+      "homeFTResult" : null,
+      "awayFTResult" : null,
+      "homeTeam" : {
+        "id" : 529,
+        "name" : "Barcelona",
+        "flashId" : "barcelona/SKbpVP5K",
+        "country" : {
+          "code" : "ES",
+          "name" : "Spain"
+        }
+      },
+      "awayTeam" : {
+        "id" : 66,
+        "name" : "Aston Villa",
+        "flashId" : "aston-villa/W00wmLO0",
+        "country" : {
+          "code" : "GB-ENG",
+          "name" : "England"
+        }
+      },
+      "season" : {
+        "uid" : "a424f4b6-6ad2-11f1-9836-3cecef730a49",
+        "year" : 2026,
+        "league" : {
+          "id" : 2,
+          "name" : "UEFA Champions League",
+          "country" : {
+            "code" : "WW",
+            "name" : "World"
+          },
+          "flashScoreId" : "europe/champions-league"
+        }
+      },
+      "roundName" : "League Stage - 4"
+    }, {
+      "id" : 1570443,
+      "flashId" : null,
+      "date" : "2026-11-08T19:00:00+03:00",
+      "dateUtc" : 1794153600,
+      "status" : 2,
+      "statusName" : "Not Started",
+      "homeResult" : null,
+      "awayResult" : null,
+      "homeHTResult" : null,
+      "awayHTResult" : null,
+      "homeFTResult" : null,
+      "awayFTResult" : null,
+      "homeTeam" : {
+        "id" : 530,
+        "name" : "Atletico Madrid",
+        "flashId" : "atl-madrid/jaarqpLQ",
+        "country" : {
+          "code" : "ES",
+          "name" : "Spain"
+        }
+      },
+      "awayTeam" : {
+        "id" : 529,
+        "name" : "Barcelona",
+        "flashId" : "barcelona/SKbpVP5K",
+        "country" : {
+          "code" : "ES",
+          "name" : "Spain"
+        }
+      },
+      "season" : {
+        "uid" : "a73aab1c-75e2-11f1-9839-3cecef730a49",
+        "year" : 2026,
+        "league" : {
+          "id" : 140,
+          "name" : "La Liga",
+          "country" : {
+            "code" : "ES",
+            "name" : "Spain"
+          },
+          "flashScoreId" : "spain/laliga"
+        }
+      },
+      "roundName" : "Regular Season - 12"
+    } ],
+    "offset" : 0,
+    "traceId" : "00-d0aaab72e17efc55d698d6b96f89ba07-4b446416628158c5-00"
+  }
+} ]

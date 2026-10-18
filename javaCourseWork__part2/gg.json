@@ -1,0 +1,62 @@
+[ {
+  "id" : "cae47102-6357-4526-8cf0-ba5d01655e23",
+  "source" : "weather",
+  "timestamp" : 1.7900892685212312E9,
+  "data" : {
+    "latitude" : 59.545567,
+    "longitude" : 30.206238,
+    "generationtime_ms" : 0.10037422180175781,
+    "utc_offset_seconds" : 0,
+    "timezone" : "GMT",
+    "timezone_abbreviation" : "GMT",
+    "elevation" : 74.0,
+    "current_units" : {
+      "time" : "iso8601",
+      "interval" : "seconds",
+      "temperature_2m" : "°C"
+    },
+    "current" : {
+      "time" : "2026-09-22T15:00",
+      "interval" : 900,
+      "temperature_2m" : 12.3
+    }
+  }
+}, {
+  "id" : "739dca54-01cb-459d-9232-dd0bb4790de5",
+  "source" : "football",
+  "timestamp" : 1.7900892697623076E9,
+  "data" : {
+    "data" : {
+      "id" : 301,
+      "homeTeam" : "Barcelona",
+      "awayTeam" : "Getafe",
+      "matchDate" : "2026-10-11T15:00:00.000Z",
+      "venue" : "Spotify Camp Nou",
+      "status" : "scheduled",
+      "homeScore" : null,
+      "awayScore" : null,
+      "matchday" : 8,
+      "competition" : "La Liga",
+      "competitionShortName" : "LAL",
+      "homeTeamImageUrl" : "https://api.fc-barcelona.app/teams/barcelona.png",
+      "awayTeamImageUrl" : "https://api.fc-barcelona.app/teams/getafe.png"
+    },
+    "meta" : {
+      "cached_at" : "2026-09-22T15:01:09.172Z",
+      "cache_expires_at" : "2026-09-22T15:16:09.172Z"
+    }
+  }
+}, {
+  "id" : "e09c712b-15c4-49ad-b27c-1c1edd4f12e7",
+  "source" : "frankfurter",
+  "timestamp" : 1790089271.3700384,
+  "data" : {
+    "amount" : 1.0,
+    "base" : "USD",
+    "date" : "2026-09-22",
+    "rates" : {
+      "CNY" : 6.7001,
+      "EUR" : 0.87237
+    }
+  }
+} ]

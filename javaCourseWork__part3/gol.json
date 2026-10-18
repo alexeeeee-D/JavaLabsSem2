@@ -1,0 +1,26 @@
+[ {
+  "id" : "bada40c2-918f-40f6-bcd0-cb44e6795191",
+  "source" : "football",
+  "timestamp" : 1789845616.8050627,
+  "data" : {
+    "data" : {
+      "id" : 301,
+      "homeTeam" : "Barcelona",
+      "awayTeam" : "Getafe",
+      "matchDate" : "2026-10-11T15:00:00.000Z",
+      "venue" : "Spotify Camp Nou",
+      "status" : "scheduled",
+      "homeScore" : null,
+      "awayScore" : null,
+      "matchday" : 8,
+      "competition" : "La Liga",
+      "competitionShortName" : "LAL",
+      "homeTeamImageUrl" : "https://api.fc-barcelona.app/teams/barcelona.png",
+      "awayTeamImageUrl" : "https://api.fc-barcelona.app/teams/getafe.png"
+    },
+    "meta" : {
+      "cached_at" : "2026-09-19T19:06:44.613Z",
+      "cache_expires_at" : "2026-09-19T19:21:44.613Z"
+    }
+  }
+} ]
